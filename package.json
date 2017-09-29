@@ -1,0 +1,17 @@
+{
+  "name": "api_intranet",
+  "version": "1.0.0",
+  "description": "api de controle da intranet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ayla Fernandes",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "consign": "^0.1.6",
+    "express": "^4.15.5",
+    "ps": "0.0.2"
+  }
+}
